@@ -1,1 +1,2 @@
-Course Materials for [Back-end Web Development](http://betamore.com/academy/back-end-web-development)
+Get the course material for backend development from here:
+(http://betamore.com/academy/back-end-web-development)
